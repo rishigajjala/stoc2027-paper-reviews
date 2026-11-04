@@ -1,0 +1,892 @@
+[
+  {
+    "number": "1363",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1364",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1369",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1371",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1375",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1376",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1378",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1379",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1383",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1384",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1385",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1386",
+    "primary_topic": "data_sublinear",
+    "classification_note": "Matrix-product data structure/query tradeoff is primary; arithmetic algorithms secondary."
+  },
+  {
+    "number": "1387",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1393",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1394",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1399",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1400",
+    "primary_topic": "data_sublinear",
+    "classification_note": "Adaptive insertion/deletion leverage-score data structure is the core theorem; optimization applications secondary."
+  },
+  {
+    "number": "1401",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1405",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1412",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1414",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1415",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1416",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1418",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1421",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1422",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1423",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1426",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1431",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1432",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1433",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1436",
+    "primary_topic": "approx_opt",
+    "classification_note": "Integrality-gap construction; approximation category, rather than an unconditional computational-hardness theorem."
+  },
+  {
+    "number": "1437",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1438",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1440",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1441",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1443",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1444",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1445",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1448",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1449",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1453",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1455",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1461",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1463",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1464",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1465",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1467",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1469",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1470",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1471",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1472",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1473",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1474",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1476",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1477",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1479",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1480",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1481",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1483",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1486",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1487",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1491",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1492",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1493",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1495",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1497",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1502",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1503",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1506",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1508",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1509",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1510",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": "Structural low-diameter spanning-tree packing theorem with algorithmic corollary."
+  },
+  {
+    "number": "1513",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1514",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1515",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1519",
+    "primary_topic": "data_sublinear",
+    "classification_note": "Memory/sample tradeoff in streaming model; statistics is secondary."
+  },
+  {
+    "number": "1522",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1523",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1525",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1526",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1529",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1530",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1531",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1532",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1533",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1535",
+    "primary_topic": "graph_discrete",
+    "classification_note": "Algorithmic tractability dichotomy for graph classes; structural graph theory secondary."
+  },
+  {
+    "number": "1536",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1544",
+    "primary_topic": "data_sublinear",
+    "classification_note": "Compact mincut representation and failure oracle; data structures primary."
+  },
+  {
+    "number": "1545",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1551",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1552",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1553",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1556",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1557",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1563",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1565",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1569",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1570",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1572",
+    "primary_topic": "distributed",
+    "classification_note": ""
+  },
+  {
+    "number": "1573",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1577",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1578",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1580",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1581",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1585",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1586",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1587",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1590",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1594",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1595",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1596",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1597",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1598",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1599",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1600",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1602",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1604",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1605",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1607",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1609",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1612",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1619",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1621",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1622",
+    "primary_topic": "complexity",
+    "classification_note": "FP/#P classification is the main consequence; counting algorithm supplies tractability."
+  },
+  {
+    "number": "1624",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1626",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1628",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1630",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1631",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1634",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1641",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1643",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1644",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1646",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1647",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1650",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1651",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1653",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1656",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1657",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1658",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1661",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1663",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1664",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1665",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1671",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1675",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1676",
+    "primary_topic": "graph_discrete",
+    "classification_note": "General matching structural reduction with static, distributed and streaming consequences; graph algorithms primary."
+  },
+  {
+    "number": "1679",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1680",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1681",
+    "primary_topic": "quantum",
+    "classification_note": "Both classical and quantum codes; classified quantum because quantum erasure-capacity theorem is a central result."
+  },
+  {
+    "number": "1682",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1687",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1688",
+    "primary_topic": "online",
+    "classification_note": "Online arrivals/recourse guarantee; classified online rather than static optimization."
+  },
+  {
+    "number": "1691",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1694",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1696",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1699",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1702",
+    "primary_topic": "complexity",
+    "classification_note": "Complexity and simulation consequences; audit qualifications remain unchanged."
+  },
+  {
+    "number": "1707",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1711",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1713",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1718",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1721",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1722",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1727",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1736",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1738",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1742",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1743",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1752",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1753",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1754",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1755",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1756",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": "Structural resistance-sparsifier lower bound, rather than an algorithmic construction."
+  },
+  {
+    "number": "1759",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1763",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  }
+]

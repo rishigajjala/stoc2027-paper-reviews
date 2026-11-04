@@ -1,0 +1,1056 @@
+[
+  {
+    "number": "2",
+    "title": "Potential Hessian Ascent IV: Sampling the Sherrington-Kirkpatrick Model at Beta < 1",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "15",
+    "title": "Random unitary circuits with constant spectral gap",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "29",
+    "title": "Subset Sum in Almost-Linear Time",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "40",
+    "title": "Approximation and Even Arity Hardness for Boolean Constraint Satisfaction",
+    "primary_topic": "approx_opt",
+    "note": "Approximation algorithm is the leading result; even-arity hardness overlaps complexity."
+  },
+  {
+    "number": "43",
+    "title": "Hard Instances for Strong Semantic Proof Systems: CNFs for Depth-Four PC and Deep Instances for \\(\\mathsf{AC}^0[2]\\)-Frege",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "52",
+    "title": "From Succinct Arguments to Proofs: Lower Bounds for Obfuscation and SNARGs",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "55",
+    "title": "Settling Nondeterministic Communication Complexity of Graph Connectivity",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "65",
+    "title": "Spectrum Estimation is Almost as Hard as Tomography",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "91",
+    "title": "The Binary Tree Mechanism is Optimal for Differentially Private Continual Counting",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "95",
+    "title": "The Harmonic Online k-Server Algorithm Is Poly(k)-Competitive",
+    "primary_topic": "online"
+  },
+  {
+    "number": "117",
+    "title": "On the Hardness of 4-to-1 Games with Perfect Completeness",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "126",
+    "title": "unitaryQIP = unitaryPSPACE",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "138",
+    "title": "Non-Malleable Affine Extractors with Small Error and Complexity Lower Bounds",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "139",
+    "title": "A dichotomy theorem for approximating CSPs in random-order streams",
+    "primary_topic": "data_sublinear",
+    "note": "Streaming model and space dichotomy determine primary topic; CSP/LP approximation is the application."
+  },
+  {
+    "number": "140",
+    "title": "Finding a Shortest Vector and More in $2^{n/2+o(n)}$ Time using $q$-ary Coset Difference Tree",
+    "primary_topic": "algebra_number"
+  },
+  {
+    "number": "154",
+    "title": "Beating the Gilbert–Varshamov Bound at Alphabet Size 42",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "155",
+    "title": "An $O(n^{0.1537})$-Coloring Algorithm for $3$-Colorable Graphs",
+    "primary_topic": "approx_opt",
+    "note": "Coloring approximation exponent determines primary topic, rather than structural graph theory."
+  },
+  {
+    "number": "156",
+    "title": "BQP⊆IP Does Not Relativize",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "159",
+    "title": "Sharp universal death of entanglement threshold for Pauli Hamiltonians",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "162",
+    "title": "Linear-size $\\ell_1$ sparsifiers",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "165",
+    "title": "Matrix Spencer: Eight Standard Deviations Suffice and an Almost-Linear Time Algorithm for Dense Input",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "175",
+    "title": "Order-selection Prophet Inequality (Almost) Goes I.I.D.",
+    "primary_topic": "online"
+  },
+  {
+    "number": "177",
+    "title": "Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "183",
+    "title": "A Uniform Algorithm for Strict NP on Bounded-Treedepth Structures",
+    "primary_topic": "graph_discrete",
+    "note": "Uniform fixed-parameter decision/witness algorithms are primary; finite-model-theory machinery is secondary."
+  },
+  {
+    "number": "193",
+    "title": "Sharp Phase Transition for Ellipsoid Fitting",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "195",
+    "title": "Parallel Repetition for k-Player XOR Games",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "202",
+    "title": "Polynomial-Time Classical and Quantum Simulation of Quantum Impurity Models",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "206",
+    "title": "Associativity of Multiplication Is Hard for Resolution",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "207",
+    "title": "Spectral gaps of Hit-and-Run and Coordinate Hit-and-Run",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "209",
+    "title": "SNARGs from any Witness Encryption, and More",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "228",
+    "title": "An exponential separation between entanglement-assisted and unassisted one-way quantum communication",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "229",
+    "title": "Sounder, shorter, and simpler PCPs from HDX neighborhoods",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "234",
+    "title": "Improved Local Leakage Resilience of Shamir Secret Sharing and Worst-Case Optimal Polynomial Intersection",
+    "primary_topic": "quantum",
+    "classification_note": "Central quantum polynomial-time coherent-oracle OPI algorithm and oracle separation, alongside a classical Shamir secret-sharing theorem.",
+    "initial_primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "245",
+    "title": "Local Leakage Resilience of Multiplication-friendly Shamir Secret Sharing",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "247",
+    "title": "Triangle-Freeness: Estimation Is as Easy as Testing",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "252",
+    "title": "Quantum lower bounds for convex optimization and real matrix-vector query problems",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "261",
+    "title": "Polynomial-Time Differentially Private Synthetic Graph Release with Nearly-Linear Additive Error",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "265",
+    "title": "A Sharp Dynamic Haussler Lemma",
+    "primary_topic": "online",
+    "note": "Sequential causal experts and online-learning dimension determine primary topic; the cover bound is combinatorial."
+  },
+  {
+    "number": "266",
+    "title": "Sampling from the Sherrington--Kirkpatrick Model up to Criticality",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "267",
+    "title": "Is Randomness Necessary for Adaptive Data Analysis?",
+    "primary_topic": "learning",
+    "note": "Adaptive statistical query accuracy is classified as learning/statistics, not regret-based online learning."
+  },
+  {
+    "number": "275",
+    "title": "Optimal Online Stochastic Matching",
+    "primary_topic": "online"
+  },
+  {
+    "number": "276",
+    "title": "Separating QMA from QCIP with a Classical Oracle, or, the Power of Quantum Proofs over Classical Interaction for Quantum Verifiers",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "286",
+    "title": "The Multiple Unicast Conjecture is False",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "301",
+    "title": "Strong Lower Bounds for Weak Epsilon-Nets",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "304",
+    "title": "The Exact Communication Threshold for Parallel Repetition",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "313",
+    "title": "Tight Bounds for Tusnády's Problem in the Plane",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "316",
+    "title": "The Greedy Superstring Conjecture Is False",
+    "primary_topic": "approx_opt",
+    "note": "Greedy approximation guarantees/counterexample are primary, rather than exact string algorithms."
+  },
+  {
+    "number": "320",
+    "title": "Efficient Proper Agnostic Learning of Halfspaces",
+    "primary_topic": "learning"
+  },
+  {
+    "number": "343",
+    "title": "Pseudorandom Functions in NC¹ from LWE/LPN/CDH (Or: How to Build Low-Depth PRFs, Generically)",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "347",
+    "title": "Fast Quantum Algorithms for Learning Linear Threshold Functions",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "349",
+    "title": "An $\\widetilde{O}(n^2)$-Time Sampler for Zero-Field Ferromagnetic Ising Models",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "353",
+    "title": "Second-Best Bilateral Trade is $1/2$ Efficient",
+    "primary_topic": "economics"
+  },
+  {
+    "number": "355",
+    "title": "Strong Selective and List-Decoding Direct Product Theorems for Quantum Query Complexity",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "356",
+    "title": "All Unitaries Have Constant Depth Quantum Circuits",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "358",
+    "title": "Asymmetry and Complexity of Nondeterministic Computations",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "365",
+    "title": "A Nearly Quadratic Lower Bound for Linear Optimization over Convex Bodies in the Membership Oracle Model",
+    "primary_topic": "approx_opt",
+    "note": "Linear-optimization membership-oracle lower bound is primary; sampling and volume consequences overlap counting_sampling."
+  },
+  {
+    "number": "367",
+    "title": "Convex optimization on moment polytopes: Hadamard mirror descent and efficient algorithms for quantum functionals and other tensor parameters",
+    "primary_topic": "approx_opt",
+    "note": "General convex optimization method is primary. Quantum functionals here are applications of the mathematical optimization framework, not the principal quantum-computation model."
+  },
+  {
+    "number": "368",
+    "title": "Faster Minimum k-Cut II: Improved Randomized and Deterministic Algorithms for Weighted Graphs",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "375",
+    "title": "Rapid mixing of Potts Glauber dynamics throughout uniqueness",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "383",
+    "title": "Query-Optimal and Gate-Efficient Time-Dependent Hamiltonian Simulation",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "386",
+    "title": "Explicit Reed-Solomon Subspace Designs: Optimal List and Line Decoding",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "392",
+    "title": "4-Block Integer Programming is in FPT",
+    "primary_topic": "approx_opt",
+    "note": "Integer optimization algorithm is primary, despite fixed-parameter formulation."
+  },
+  {
+    "number": "393",
+    "title": "Three Standard Deviations Suffice While One Does Not",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "394",
+    "title": "Settling the Query Complexity of Weighted Stochastic Matching",
+    "primary_topic": "graph_discrete",
+    "note": "Static nonadaptive stochastic matching query algorithm, not arrival-based online matching; approximation is a secondary overlap."
+  },
+  {
+    "number": "397",
+    "title": "Quantum circuit compilation with constant overhead",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "400",
+    "title": "An $\\tilde \\Omega(\\log n \\log m)$ Information-Theoretic Lower Bound for Randomized Online Set Cover",
+    "primary_topic": "online"
+  },
+  {
+    "number": "403",
+    "title": "Tarski Fixed Points in Quasi-FPT Queries",
+    "primary_topic": "complexity",
+    "note": "Oracle query upper/lower bounds for a total fixed-point search problem; borderline with discrete/optimization algorithms, classified complexity."
+  },
+  {
+    "number": "407",
+    "title": "Group Action and Spin Representation Lead to a Holant* Complexity Dichotomy on Domain Size 3",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "408",
+    "title": "Polynomially larger deletion codes by linear hashing of substring counts",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "409",
+    "title": "Thin-shell stability and heat-adjoint hypercontractivity: logconcave sampling with sesteric complexity from a cold start",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "411",
+    "title": "No Truly Sublogarithmic-Round Algorithm for Distributed MIS in the LOCAL Model",
+    "primary_topic": "distributed"
+  },
+  {
+    "number": "416",
+    "title": "Online carpooling against an oblivious adversary",
+    "primary_topic": "online"
+  },
+  {
+    "number": "418",
+    "title": "Entrywise Logarithmic Matrix Algebra and Dichotomy of Planar Graph Homomorphisms",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "421",
+    "title": "Tree Equivalence of Higher-Order Recursion Schemes Is Undecidable",
+    "primary_topic": "complexity",
+    "note": "Undecidability/computability theorem fits complexity; taxonomy has no separate logic/verification category."
+  },
+  {
+    "number": "423",
+    "title": "Averaged Annealed Markov Chains Achieve the Algorithmic Threshold for Tensor PCA, Part I: Glauber Dynamics",
+    "primary_topic": "learning",
+    "note": "Recovery of a planted tensor signal is inference; the sampler is its algorithmic method."
+  },
+  {
+    "number": "426",
+    "title": "Faster enumeration of primes",
+    "primary_topic": "algebra_number"
+  },
+  {
+    "number": "428",
+    "title": "Tight Bounds for Randomized Generalized k-Server on Uniform Metrics",
+    "primary_topic": "online"
+  },
+  {
+    "number": "429",
+    "title": "A Bulow--Klemperer Theorem for Bundling and Improved Approximation Bounds for Simple Auctions",
+    "primary_topic": "economics"
+  },
+  {
+    "number": "442",
+    "title": "A Counting and Sampling Lovász Local Lemma",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "443",
+    "title": "A Better-than-e^{1/e} Approximation Algorithm for Nash Social Welfare under Additive Valuations",
+    "primary_topic": "economics",
+    "classification_note": "Nash social welfare allocation; aligned with #916 and historical welfare papers.",
+    "initial_primary_topic": "approx_opt"
+  },
+  {
+    "number": "444",
+    "title": "Sampling Matchings in Near-linear Time",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "447",
+    "title": "Settling the Sample Complexity of Rényi Entropy Estimation",
+    "primary_topic": "learning"
+  },
+  {
+    "number": "450",
+    "title": "Almost-Linear Modular Composition over Arbitrary Commutative Rings",
+    "primary_topic": "algebra_number"
+  },
+  {
+    "number": "451",
+    "title": "A Unified Complexity Framework for Quantum Property Testing",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "459",
+    "title": "$\\ell_{\\infty}$ norm SVP in $\\widetilde{O}(3^n)$",
+    "primary_topic": "algebra_number"
+  },
+  {
+    "number": "464",
+    "title": "The Optimizer's Windfall: Bounding Hindsight Gain under Random Restrictions",
+    "primary_topic": "data_sublinear",
+    "note": "Dense-CSP sampling/query consequences motivate sublinear classification; general hindsight inequality overlaps optimization."
+  },
+  {
+    "number": "467",
+    "title": "Algebraic-Geometric Parvaresh--Vardy Subspace Designs and Rank Condensers",
+    "primary_topic": "complexity",
+    "note": "Subspace-design/rank-condenser construction is pseudorandomness; coding is a major method overlap."
+  },
+  {
+    "number": "473",
+    "title": "Fine-Grained Complexity Across the Computational Phase Transition",
+    "primary_topic": "counting_sampling",
+    "note": "Mixing/counting transition is primary; fine-grained conditional reductions are a substantial complexity overlap."
+  },
+  {
+    "number": "475",
+    "title": "LOCAL LLL in poly(loglog n) Rounds",
+    "primary_topic": "distributed"
+  },
+  {
+    "number": "476",
+    "title": "From Degree Three to Degree Two: Statistical Randomized Encodings for All Functions",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "478",
+    "title": "UPPcc is Not Closed Under Intersection",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "483",
+    "title": "Quantum Lazy Sampling and Path Recording for Any Group",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "490",
+    "title": "QMA has perfect completeness",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "504",
+    "title": "Directed Global Minimum Cut in Almost-Linear Time",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "505",
+    "title": "The list size of random linear and LDPC codes at capacity",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "509",
+    "title": "The Polynomial-Time Low-Degree Conjecture is False",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "526",
+    "title": "Byzantine Broadcast in $\\widetilde{O}(n^2)$ Communication",
+    "primary_topic": "distributed"
+  },
+  {
+    "number": "527",
+    "title": "A Proof of the Most Informative Boolean Function Conjecture",
+    "primary_topic": "coding_info",
+    "note": "Mutual-information inequality for Boolean functions/channels, rather than a circuit or communication lower bound."
+  },
+  {
+    "number": "528",
+    "title": "A Deterministic O(log m)-Competitive Algorithm for Online Minimum Cost Bipartite Matching with Delays",
+    "primary_topic": "online"
+  },
+  {
+    "number": "529",
+    "title": "Second-Best Trade Is Half Efficient in Multidimensional Markets",
+    "primary_topic": "economics"
+  },
+  {
+    "number": "530",
+    "title": "Optimal $e^{(\\gamma+o(1))n}$-Approximation of the Permanent of Positive Semidefinite Matrices",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "531",
+    "title": "Unconditional Unclonable Encryption",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "533",
+    "title": "Catalytic Tree Evaluation from Matching Vectors",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "536",
+    "title": "Random Deletion for Circuits in Regular Matroids",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Near-minimum circuit count and random-deletion structure in regular matroids are primary; algorithmic enumeration/parallelism are consequences."
+  },
+  {
+    "number": "541",
+    "title": "Solving $p$-norm regression in matrix multiplication time",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "547",
+    "title": "Combinatorial limitations of list-decoding Reed-Solomon codes",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "559",
+    "title": "Tight Approximation Bounds for Clock Auctions",
+    "primary_topic": "economics"
+  },
+  {
+    "number": "563",
+    "title": "Breaking the Parity Barrier for Constant-Depth Circuits",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "565",
+    "title": "Algorithmic List Decoding of Reed–Solomon Codes up to Capacity",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "575",
+    "title": "Spectral gap of Lee-Yang Hamiltonians",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "577",
+    "title": "Hitting sets From Derivations: Waring Rank and Noncommutative ABPs",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "583",
+    "title": "Testing Implies Distance Estimation with Polynomial Loss",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "589",
+    "title": "A Near-Optimal Parallel Algorithm for Finding Matroid Bases",
+    "primary_topic": "distributed"
+  },
+  {
+    "number": "595",
+    "title": "Matrix Samplers and Quantum-Proof Extractors: Their Correspondence and Almost-Optimal Constructions",
+    "primary_topic": "complexity",
+    "note": "Classical matrix-sampler/extractor construction is primary. Quantum side-information security is important but follows the shared rule for classical quantum-proof extractors."
+  },
+  {
+    "number": "598",
+    "title": "The Entire Quantum Computer on a Classical Leash",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "603",
+    "title": "Reed–Solomon Codes Beyond Johnson: Efficient Decoding and Smaller Cryptographic Proofs",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "605",
+    "title": "Counterexamples to Beyond-Johnson Proximity Gaps over Binary Fields",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "607",
+    "title": "Factor Closure in Noncommutative Algebraic Complexity",
+    "primary_topic": "complexity",
+    "note": "Factor closure for arithmetic circuit/formula complexity classes, rather than a numerical arithmetic algorithm."
+  },
+  {
+    "number": "610",
+    "title": "Cube-Root Soundness Is Optimal for the Line–versus–Point Test",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "611",
+    "title": "Code Swendsen-Wang Dynamics",
+    "primary_topic": "quantum",
+    "note": "The quantum stabilizer Hamiltonian/4D toric-code mixing result supplies the quantum-specific main contribution; classical-code chains are a substantial overlap."
+  },
+  {
+    "number": "618",
+    "title": "A classical oracle separation between QMA and QMA(2)",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "619",
+    "title": "A Walk from Free Probability to Matrix Discrepancy I: Matrix Spencer",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "620",
+    "title": "A Walk from Free Probability to Matrix Discrepancy II: Weaver's Problem and the Kadison-Singer Problem",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "625",
+    "title": "Matrix Lewis Weights: Solving Semidefinite Programs in Square Root Constraints Iterations",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "629",
+    "title": "High-dimensional expanders, the sparsest cut problem, and Steurer’s conjecture",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Structural counterexample to an expansion conjecture; approximation and mixing implications are secondary."
+  },
+  {
+    "number": "631",
+    "title": "Optimal partition rank bounds for the determinant and other multilinear polynomials",
+    "primary_topic": "complexity",
+    "note": "Tensor partition-rank lower bounds are placed with algebraic complexity; this is a coarse boundary with algebraic/combinatorial mathematics."
+  },
+  {
+    "number": "635",
+    "title": "New Algorithms for Dynamic Maximal Matching and Edge Coloring",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "637",
+    "title": "Deterministic Connectivity Sketches Under Edge Deletions",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "639",
+    "title": "Lower Bounds for Preprocessing Attacks on Quantum Cryptography",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "641",
+    "title": "Constant-Overhead Injection into Quantum Codes",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "645",
+    "title": "Dimension-Free Polylogarithmic Quantum Shadow Tomography",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "650",
+    "title": "Succinct Interactive Commitments and Arguments for NP from Exponentially Hard Injective One-Way Functions",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "657",
+    "title": "Sampling Colorings Close to the Maximum Degree: Non-Markovian Coupling and Local Uniformity",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "659",
+    "title": "Quasipolynomial Trace Reconstruction",
+    "primary_topic": "coding_info",
+    "note": "Deletion-channel trace reconstruction sample complexity is classical information theory; learning is an overlap."
+  },
+  {
+    "number": "674",
+    "title": "A Linear Lower Bound for Convex Body Chasing in Every Norm",
+    "primary_topic": "online"
+  },
+  {
+    "number": "679",
+    "title": "Sublinear Metric Distortion for Matching",
+    "primary_topic": "economics",
+    "note": "Ordinal social-choice distortion and mechanism comparisons determine economics, even though the new matching rule is not asserted truthful."
+  },
+  {
+    "number": "687",
+    "title": "The asymptotic spectrum of tensors is connected",
+    "primary_topic": "complexity",
+    "note": "Asymptotic tensor spectrum is an algebraic-complexity invariant; no fast arithmetic algorithm is the main result."
+  },
+  {
+    "number": "693",
+    "title": "A Better-than-2 Approximation for k-Median",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "696",
+    "title": "On Brouwer's Laplacian conjecture",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "702",
+    "title": "A general counting and sampling Lov\\'asz local lemma",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "704",
+    "title": "A deterministic $(1+\\varepsilon)^n$ approximation for the permanent of a nonnegative matrix",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "707",
+    "title": "The Sharp Dimension Bound in the Johnson--Lindenstrauss Lemma",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "712",
+    "title": "Optimal Quantum de Finetti Theorems via Argmax Rounding",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "713",
+    "title": "Superlattice methods for the shortest vector problem and discrete Gaussian sampling",
+    "primary_topic": "algebra_number",
+    "note": "Classical SVP and lattice sampling are primary; quantum tradeoffs are secondary."
+  },
+  {
+    "number": "715",
+    "title": "An $\\widetilde{O}(n^3)$-time FPRAS for the Permanent",
+    "primary_topic": "counting_sampling"
+  },
+  {
+    "number": "717",
+    "title": "Quadratic Probing Insertions Are $\\epsilon^{-(1+o(1))}$ Time",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "718",
+    "title": "The Sample Complexity of Multi-Class Omniprediction",
+    "primary_topic": "learning"
+  },
+  {
+    "number": "724",
+    "title": "$0/1$-Polytopes with Exponentially Small Edge Expansion",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "725",
+    "title": "Counting Linear Extensions Faster than $2^n$",
+    "primary_topic": "counting_sampling",
+    "note": "Exact counting algorithm classified counting_sampling, despite exact-exponential discrete-algorithm methods."
+  },
+  {
+    "number": "726",
+    "title": "Asymptotically Optimal Weighted Edge Colorings via Local Bin Packing",
+    "primary_topic": "approx_opt",
+    "note": "Weighted edge coloring via local bin packing is combinatorial optimization; structural extremal bounds overlap combinatorics_geometry."
+  },
+  {
+    "number": "728",
+    "title": "Exponential Separation of Sign-Rank and Margin Complexity",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "730",
+    "title": "$\\mathsf{EQP}\\subseteq\\mathsf{IP}$ Does Not Relativize",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "732",
+    "title": "Reed--Muller Codes are Optimal Binary Linear 3-Query LCCs",
+    "primary_topic": "coding_info"
+  },
+  {
+    "number": "735",
+    "title": "Nested Effective Resistance Partitions and Eulerian Sparsification",
+    "primary_topic": "graph_discrete",
+    "note": "Static graph sparsifier construction is primary; not a dynamic/streaming data structure."
+  },
+  {
+    "number": "737",
+    "title": "Single-Variable Connectivity in Random $k$-SAT",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Random-CSP solution geometry/connectivity and threshold structure are primary; no general SAT algorithm claimed."
+  },
+  {
+    "number": "739",
+    "title": "A computational phase diagram for the transverse field Ising model",
+    "primary_topic": "quantum",
+    "note": "The computational phase diagram concerns quantum transverse-field Hamiltonians, including quantum Gibbs preparation."
+  },
+  {
+    "number": "740",
+    "title": "A Faster Strongly Polynomial Time Algorithm for Submodular Function Minimization",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "743",
+    "title": "Cutting Down the Tower: Single-Exponential Envy-Free Cake Cutting",
+    "primary_topic": "economics",
+    "note": "Envy-free fair-division protocol is economics even without a strategic truthfulness guarantee."
+  },
+  {
+    "number": "747",
+    "title": "Polynomial Time Algorithms for the Kadison-Singer Problem",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Algorithmic discrepancy/Kadison–Singer theorem remains combinatorics_geometry under the shared structural/discrepancy rule."
+  },
+  {
+    "number": "748",
+    "title": "NP-Hardness and Additive Inapproximability of Deterministic Communication Complexity",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "750",
+    "title": "An Explicit and Optimal Separation of BPP from NP in Number-on-Forehead Communication Complexity",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "761",
+    "title": "Worst-Case to Average-Case Reductions for Linear Algebra: Optimal, Simple, and General",
+    "primary_topic": "complexity",
+    "note": "Worst-case/average-case reductions are primary; the problems being reduced concern matrix arithmetic."
+  },
+  {
+    "number": "762",
+    "title": "Rapid mixing of quantum spin chains at any finite temperature",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "763",
+    "title": "Random-Walk Cuckoo Hashing is Efficient up to the Critical Load Threshold",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "766",
+    "title": "Binary code rate bounds via classical-quantum channels",
+    "primary_topic": "coding_info",
+    "note": "Classical binary-code rate bounds are the main theorem. Quantum channels are the proof method, not quantum-code results."
+  },
+  {
+    "number": "768",
+    "title": "Sharp Bounds for Truthful-in-Expectation Scheduling",
+    "primary_topic": "economics",
+    "note": "Truthful mechanism performance is primary, so economics rather than online or generic scheduling."
+  },
+  {
+    "number": "772",
+    "title": "Nearly Linear Private Learning of Littlestone Classes",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "775",
+    "title": "An $O(1)$ Bound for the KLS Constant",
+    "primary_topic": "combinatorics_geometry"
+  },
+  {
+    "number": "783",
+    "title": "Parallelizable and addressable transversal non-Clifford gates on good quantum LDPC codes",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "784",
+    "title": "A Near-Linear Element-Kernel for d-Hitting Set",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "785",
+    "title": "Quantum channel tomography: optimal bounds in the near-boundary regime",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "786",
+    "title": "Non-Abelian sheaf quantum LDPC codes: good and magical",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "788",
+    "title": "Semi-Streaming Reachability and Shortest Paths in $n^{1/3+o(1)}$ Passes",
+    "primary_topic": "data_sublinear"
+  },
+  {
+    "number": "792",
+    "title": "A Tale of Two Walks: From Kac to KMP and Back",
+    "primary_topic": "counting_sampling",
+    "note": "Classical KMP and coordinate-Hit-and-Run mixing are primary; quantum Kac-twirling consequences form an important overlap."
+  },
+  {
+    "number": "793",
+    "title": "Autoregressive Distribution Learning and Universal Compression",
+    "primary_topic": "learning",
+    "note": "Distribution learning/evaluation equivalences are primary; universal compression is a major information-theory overlap."
+  },
+  {
+    "number": "794",
+    "title": "On Random Purifications of Isometries and Channels",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "795",
+    "title": "Counting Paths in Time $O^*(2^k)$, with Extensions to Counting Bounded Treewidth Graphs and Multilinear Monomials",
+    "primary_topic": "counting_sampling",
+    "note": "Approximate counting of paths/patterns is primary, rather than decision/search graph algorithms."
+  },
+  {
+    "number": "797",
+    "title": "Optimal Multi-Item Auctions with I.I.D. Values",
+    "primary_topic": "economics"
+  },
+  {
+    "number": "798",
+    "title": "Parity Decision Trees of Depth $O(4^d \\log \\| \\widehat f \\|_1)$ for Boolean Functions $f$ of $\\mathbb F_2$-Degree $d$",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "802",
+    "title": "Depth-Independent Mergeable Arguments",
+    "primary_topic": "crypto_privacy"
+  },
+  {
+    "number": "804",
+    "title": "High-Multiplicity Bin Packing is FPT",
+    "primary_topic": "approx_opt",
+    "note": "Exact integer/bin-packing optimization is primary, despite fixed-parameter formulation."
+  },
+  {
+    "number": "805",
+    "title": "Time/Space Hardness from Lattice Problems",
+    "primary_topic": "crypto_privacy",
+    "note": "Topic classification only: this does not override the unresolved audit status caused by essential imported proof sources being unavailable."
+  },
+  {
+    "number": "808",
+    "title": "A Full Complexity Dichotomy for Complex-Valued Boolean Holant Problems",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "809",
+    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "810",
+    "title": "A Deterministic Polynomial Kernel for Odd Cycle Transversal",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "811",
+    "title": "Breaking the $2^n$ barrier for directed hamiltonicity",
+    "primary_topic": "graph_discrete"
+  },
+  {
+    "number": "813",
+    "title": "Silver Rate Is (Almost) Optimal for Gradient Descent: The Strongly Convex Case",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "814",
+    "title": "Counting Hamiltonian Cycles in Bipartite Digraphs Deterministically in $O(1.9526^n)$ Time",
+    "primary_topic": "counting_sampling",
+    "note": "Exact counting of Hamiltonian cycles is primary; the weighted TSP consequence is secondary."
+  },
+  {
+    "number": "815",
+    "title": "Quantum Security of XOR of Permutations via Fourier Analysis",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "816",
+    "title": "On the Quantum Chromatic Gap II",
+    "primary_topic": "quantum"
+  },
+  {
+    "number": "817",
+    "title": "Splay trees are almost dynamically optimal",
+    "primary_topic": "data_sublinear",
+    "note": "BST dynamic-optimality theorem belongs to data structures by shared rule, even though the guarantee is competitive against offline optimum."
+  },
+  {
+    "number": "820",
+    "title": "Primal/Dual Method for the Grothendieck Constant",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Grothendieck constant and its functional-analytic characterization are primary; approximation-algorithm rounding is the method/application overlap."
+  },
+  {
+    "number": "821",
+    "title": "A Quadratic Lower Bound for Noncommutative Circuits",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "822",
+    "title": "Distinguishability Threshold for Random Geometric Graphs",
+    "primary_topic": "learning",
+    "note": "Statistical distinguishability of geometric versus independent random graphs is classified as learning/inference; probability/graph-geometry is a close alternative."
+  },
+  {
+    "number": "823",
+    "title": "A polynomial scaling window for random k-SAT and a proof of the satisfiability conjecture",
+    "primary_topic": "combinatorics_geometry",
+    "note": "Random-SAT threshold existence and scaling-window geometry, without a SAT algorithm, is classified combinatorics_geometry."
+  },
+  {
+    "number": "824",
+    "title": "Expanding Codes with Polynomial Stretch",
+    "primary_topic": "coding_info",
+    "note": "Sparse code construction and adversarial-error recognition are primary; conditional cryptographic applications are secondary."
+  },
+  {
+    "number": "827",
+    "title": "Undirected Multiple-Unicast Network Coding and Faster External-Memory Integer Sorting",
+    "primary_topic": "coding_info",
+    "note": "Undirected network-coding advantage is primary; external-memory integer sorting is a consequence."
+  },
+  {
+    "number": "829",
+    "title": "Extending Tardos's Theorem to Separable Convex Quadratic Programming",
+    "primary_topic": "approx_opt"
+  },
+  {
+    "number": "830",
+    "title": "Exhaustive Search Is Hard to Beat in Constant Depth for Hyperclique and Orthogonal Vectors",
+    "primary_topic": "complexity"
+  },
+  {
+    "number": "831",
+    "title": "A Polynomial Erdős-Pósa bound for Eulerian digraphs",
+    "primary_topic": "combinatorics_geometry"
+  }
+]

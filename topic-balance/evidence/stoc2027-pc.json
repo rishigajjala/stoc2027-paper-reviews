@@ -1,0 +1,1150 @@
+{
+  "checked_at_utc": "2026-11-04T03:17:53.071429+00:00",
+  "sources": {
+    "official_home": "https://acm-stoc.org/stoc2027/",
+    "official_cfp": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html",
+    "official_roster_anchor": "https://acm-stoc.org/stoc2027/stoc2027-cfp.html#program-committee",
+    "official_hotcrp_pc": "https://stoc27.hotcrp.com/users/pc",
+    "official_policy_rationale": "https://acm-stoc.org/stoc2027/stoc2027-policy-explanations.pdf"
+  },
+  "primary_roster_source": "official_cfp",
+  "roster_count_including_chair": 98,
+  "roster": [
+    {
+      "name": "Sepehr Assadi",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Moshe Babaioff",
+      "affiliation": "Hebrew University of Jerusalem",
+      "role": "member"
+    },
+    {
+      "name": "Siddhartha Banerjee",
+      "affiliation": "Cornell University",
+      "role": "member"
+    },
+    {
+      "name": "Nikhil Bansal",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Omri Ben-Eliezer",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "Aditya Bhaskara",
+      "affiliation": "University of Utah",
+      "role": "member"
+    },
+    {
+      "name": "Sayan Bhattacharya",
+      "affiliation": "University of Warwick",
+      "role": "member"
+    },
+    {
+      "name": "Eric Blais",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Zvika Brakerski",
+      "affiliation": "Weizmann Institute of Science",
+      "role": "member"
+    },
+    {
+      "name": "Sebastian Brandt",
+      "affiliation": "CISPA Helmholtz Center for Information Security",
+      "role": "member"
+    },
+    {
+      "name": "Simina Branzei",
+      "affiliation": "Purdue University and Google",
+      "role": "member"
+    },
+    {
+      "name": "Karl Bringmann",
+      "affiliation": "ETH Zurich",
+      "role": "member"
+    },
+    {
+      "name": "Mark Bun",
+      "affiliation": "Boston University",
+      "role": "member"
+    },
+    {
+      "name": "Yang Cai",
+      "affiliation": "Yale University",
+      "role": "member"
+    },
+    {
+      "name": "Clément Canonne",
+      "affiliation": "University of Sydney",
+      "role": "member"
+    },
+    {
+      "name": "Deeparnab Chakrabarty",
+      "affiliation": "Dartmouth College",
+      "role": "member"
+    },
+    {
+      "name": "Yi-Jun Chang",
+      "affiliation": "National University of Singapore",
+      "role": "member"
+    },
+    {
+      "name": "Shiri Chechik",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Xi Chen",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Constantinos Daskalakis",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Anuj Dawar",
+      "affiliation": "University of Cambridge",
+      "role": "member"
+    },
+    {
+      "name": "Susanna de Rezende",
+      "affiliation": "Lund University",
+      "role": "member"
+    },
+    {
+      "name": "Ilias Diakonikolas",
+      "affiliation": "University of Wisconsin-Madison",
+      "role": "member"
+    },
+    {
+      "name": "Alon Eden",
+      "affiliation": "Hebrew University of Jerusalem",
+      "role": "member"
+    },
+    {
+      "name": "Klim Efremenko",
+      "affiliation": "Ben-Gurion University",
+      "role": "member"
+    },
+    {
+      "name": "Michal Feldman",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Yuval Filmus",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "Fedor Fomin",
+      "affiliation": "University of Bergen",
+      "role": "member"
+    },
+    {
+      "name": "Michael A. Forbes",
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "role": "member"
+    },
+    {
+      "name": "Naveen Garg",
+      "affiliation": "IIT Delhi",
+      "role": "member"
+    },
+    {
+      "name": "Ran Gelles",
+      "affiliation": "Bar-Ilan University",
+      "role": "member"
+    },
+    {
+      "name": "Fulvio Gesmundo",
+      "affiliation": "Toulouse University",
+      "role": "member"
+    },
+    {
+      "name": "Mohsen Ghaffari",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Shayan Oveis Gharan",
+      "affiliation": "University of Washington",
+      "role": "member"
+    },
+    {
+      "name": "Kira Goldner",
+      "affiliation": "Boston University",
+      "role": "member"
+    },
+    {
+      "name": "Gramoz Goranci",
+      "affiliation": "University of Vienna",
+      "role": "member"
+    },
+    {
+      "name": "Daniel Grier",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Elena Grigorescu",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Johan Håstad",
+      "affiliation": "KTH Royal Institute of Technology",
+      "role": "member"
+    },
+    {
+      "name": "Max Hopkins",
+      "affiliation": "Institute for Advanced Study",
+      "role": "member"
+    },
+    {
+      "name": "Russell Impagliazzo",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "T.S. Jayram",
+      "affiliation": "Lawrence Livermore National Laboratory",
+      "role": "member"
+    },
+    {
+      "name": "Yael Kalai",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Gautam Kamath",
+      "affiliation": "NYU",
+      "role": "member"
+    },
+    {
+      "name": "Pascal Koiran",
+      "affiliation": "ENS Lyon",
+      "role": "member"
+    },
+    {
+      "name": "Michal Koucký",
+      "affiliation": "Charles University",
+      "role": "member"
+    },
+    {
+      "name": "Elias Koutsoupias",
+      "affiliation": "University of Oxford",
+      "role": "member"
+    },
+    {
+      "name": "Robert Krauthgamer",
+      "affiliation": "Weizmann Institute of Science",
+      "role": "member"
+    },
+    {
+      "name": "Stephan Kreutzer",
+      "affiliation": "Technische Universität Berlin",
+      "role": "member"
+    },
+    {
+      "name": "Fabian Kuhn",
+      "affiliation": "University of Freiburg",
+      "role": "member"
+    },
+    {
+      "name": "Mrinal Kumar",
+      "affiliation": "TIFR",
+      "role": "member"
+    },
+    {
+      "name": "Rasmus Kyng",
+      "affiliation": "ETH Zurich",
+      "role": "member"
+    },
+    {
+      "name": "Troy Lee",
+      "affiliation": "University of Technology Sydney",
+      "role": "member"
+    },
+    {
+      "name": "Nutan Limaye",
+      "affiliation": "IT University of Copenhagen",
+      "role": "member"
+    },
+    {
+      "name": "Qipeng Liu",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Daniel Lokshtanov",
+      "affiliation": "UC Santa Barbara",
+      "role": "member"
+    },
+    {
+      "name": "Anand Louis",
+      "affiliation": "Indian Institute of Science",
+      "role": "member"
+    },
+    {
+      "name": "Shachar Lovett",
+      "affiliation": "UC San Diego",
+      "role": "chair"
+    },
+    {
+      "name": "Tal Malkin",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Dániel Marx",
+      "affiliation": "CISPA Helmholtz Center",
+      "role": "member"
+    },
+    {
+      "name": "Or Meir",
+      "affiliation": "University of Sheffield and University of Haifa",
+      "role": "member"
+    },
+    {
+      "name": "Raghu Meka",
+      "affiliation": "UCLA",
+      "role": "member"
+    },
+    {
+      "name": "Dor Minzer",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Ankur Moitra",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Seffi Naor",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "Ryan O'Donnell",
+      "affiliation": "Carnegie Mellon University",
+      "role": "member"
+    },
+    {
+      "name": "Rafael Oliveira",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Sigal Oren",
+      "affiliation": "Ben-Gurion University",
+      "role": "member"
+    },
+    {
+      "name": "Rotem Oshman",
+      "affiliation": "Tel Aviv University / NYU",
+      "role": "member"
+    },
+    {
+      "name": "Rafail Ostrovsky",
+      "affiliation": "UCLA",
+      "role": "member"
+    },
+    {
+      "name": "Gopal Pandurangan",
+      "affiliation": "University of Houston",
+      "role": "member"
+    },
+    {
+      "name": "Debmalya Panigrahi",
+      "affiliation": "Duke University",
+      "role": "member"
+    },
+    {
+      "name": "Rafael Pass",
+      "affiliation": "Cornell Tech",
+      "role": "member"
+    },
+    {
+      "name": "Seth Pettie",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Michał Pilipczuk",
+      "affiliation": "University of Warsaw",
+      "role": "member"
+    },
+    {
+      "name": "Toniann Pitassi",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Tim Roughgarden",
+      "affiliation": "Institute for Advanced Study",
+      "role": "member"
+    },
+    {
+      "name": "Aviad Rubinstein",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "Shubhangi Saraf",
+      "affiliation": "University of Toronto",
+      "role": "member"
+    },
+    {
+      "name": "Thatchaphol Saranurak",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Saket Saurabh",
+      "affiliation": "The Institute of Mathematical Sciences",
+      "role": "member"
+    },
+    {
+      "name": "Nitin Saxena",
+      "affiliation": "IIT Kanpur",
+      "role": "member"
+    },
+    {
+      "name": "Tselil Schramm",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "Asaf Shapira",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Elaine Shi",
+      "affiliation": "Carnegie Mellon University",
+      "role": "member"
+    },
+    {
+      "name": "Mohit Singh",
+      "affiliation": "Georgia Tech",
+      "role": "member"
+    },
+    {
+      "name": "Makrand Sinha",
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "role": "member"
+    },
+    {
+      "name": "Srikanth Srinivasan",
+      "affiliation": "University of Copenhagen",
+      "role": "member"
+    },
+    {
+      "name": "Ola Svensson",
+      "affiliation": "EPFL",
+      "role": "member"
+    },
+    {
+      "name": "Madhur Tulsiani",
+      "affiliation": "Toyota Technological Institute at Chicago",
+      "role": "member"
+    },
+    {
+      "name": "Santosh Vempala",
+      "affiliation": "Georgia Tech",
+      "role": "member"
+    },
+    {
+      "name": "Ben Lee Volk",
+      "affiliation": "Reichman University",
+      "role": "member"
+    },
+    {
+      "name": "Jan Vondrák",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "June Vuong",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "David Woodruff",
+      "affiliation": "Carnegie Mellon University and Google",
+      "role": "member"
+    },
+    {
+      "name": "John Wright",
+      "affiliation": "UC Berkeley",
+      "role": "member"
+    },
+    {
+      "name": "Kewen Wu",
+      "affiliation": "Caltech",
+      "role": "member"
+    },
+    {
+      "name": "Jiapeng Zhang",
+      "affiliation": "University of Southern California",
+      "role": "member"
+    }
+  ],
+  "hotcrp_roster_count_including_chair": 98,
+  "hotcrp_roster": [
+    {
+      "name": "Aditya Bhaskara",
+      "affiliation": "University of Utah",
+      "role": "member"
+    },
+    {
+      "name": "Alon Eden",
+      "affiliation": "Hebrew University of Jerusalem",
+      "role": "member"
+    },
+    {
+      "name": "Anand Louis",
+      "affiliation": "Indian Institute of Science",
+      "role": "member"
+    },
+    {
+      "name": "Ankur Moitra",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Anuj Dawar",
+      "affiliation": "University of Cambridge",
+      "role": "member"
+    },
+    {
+      "name": "Asaf Shapira",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Aviad Rubinstein",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "Ben Lee Volk",
+      "affiliation": "Reichman University",
+      "role": "member"
+    },
+    {
+      "name": "Clément Canonne",
+      "affiliation": "University of Sydney",
+      "role": "member"
+    },
+    {
+      "name": "Constantinos Daskalakis",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Daniel Grier",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Daniel Lokshtanov",
+      "affiliation": "UC Santa Barbara",
+      "role": "member"
+    },
+    {
+      "name": "Dániel Marx",
+      "affiliation": "CISPA Helmholtz Center for Information Security",
+      "role": "member"
+    },
+    {
+      "name": "David Woodruff",
+      "affiliation": "Carnegie Mellon University",
+      "role": "member"
+    },
+    {
+      "name": "Debmalya Panigrahi",
+      "affiliation": "Duke University",
+      "role": "member"
+    },
+    {
+      "name": "Deeparnab Chakrabarty",
+      "affiliation": "Dartmouth College",
+      "role": "member"
+    },
+    {
+      "name": "Dor Minzer",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Elaine Shi",
+      "affiliation": "Carnegie Mellon University",
+      "role": "member"
+    },
+    {
+      "name": "Elena Grigorescu",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Elias Koutsoupias",
+      "affiliation": "University of Oxford",
+      "role": "member"
+    },
+    {
+      "name": "Eric Blais",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Fabian Kuhn",
+      "affiliation": "University of Freiburg",
+      "role": "member"
+    },
+    {
+      "name": "Fedor Fomin",
+      "affiliation": "University of Bergen",
+      "role": "member"
+    },
+    {
+      "name": "Fulvio Gesmundo",
+      "affiliation": "Toulouse University",
+      "role": "member"
+    },
+    {
+      "name": "Gautam Kamath",
+      "affiliation": "New York University",
+      "role": "member"
+    },
+    {
+      "name": "Gopal Pandurangan",
+      "affiliation": "University of Houston",
+      "role": "member"
+    },
+    {
+      "name": "Gramoz Goranci",
+      "affiliation": "University of Vienna",
+      "role": "member"
+    },
+    {
+      "name": "Ilias Diakonikolas",
+      "affiliation": "University of Wisconsin-Madison",
+      "role": "member"
+    },
+    {
+      "name": "Jan Vondrák",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "Jiapeng Zhang",
+      "affiliation": "University of Southern California",
+      "role": "member"
+    },
+    {
+      "name": "Johan Håstad",
+      "affiliation": "KTH Royal Institute of Technology",
+      "role": "member"
+    },
+    {
+      "name": "John Wright",
+      "affiliation": "UC Berkeley",
+      "role": "member"
+    },
+    {
+      "name": "Joseph Naor",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "June Vuong",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Karl Bringmann",
+      "affiliation": "ETH Zurich",
+      "role": "member"
+    },
+    {
+      "name": "Kewen Wu",
+      "affiliation": "Caltech",
+      "role": "member"
+    },
+    {
+      "name": "Kira Goldner",
+      "affiliation": "Boston University",
+      "role": "member"
+    },
+    {
+      "name": "Klim Efremenko",
+      "affiliation": "Ben-Gurion University",
+      "role": "member"
+    },
+    {
+      "name": "Madhur Tulsiani",
+      "affiliation": "Toyota Technological Institute at Chicago",
+      "role": "member"
+    },
+    {
+      "name": "Makrand Sinha",
+      "affiliation": "UIUC",
+      "role": "member"
+    },
+    {
+      "name": "Mark Bun",
+      "affiliation": "Boston University",
+      "role": "member"
+    },
+    {
+      "name": "Max Hopkins",
+      "affiliation": "Institute for Advanced Study",
+      "role": "member"
+    },
+    {
+      "name": "Michael Forbes",
+      "affiliation": "University of Illinois Urbana-Champaign",
+      "role": "member"
+    },
+    {
+      "name": "Michal Feldman",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Michal Koucký",
+      "affiliation": "Charles University",
+      "role": "member"
+    },
+    {
+      "name": "Michał Pilipczuk",
+      "affiliation": "Technical University of Darmstadt",
+      "role": "member"
+    },
+    {
+      "name": "Mohit Singh",
+      "affiliation": "Georgia Tech",
+      "role": "member"
+    },
+    {
+      "name": "Mohsen Ghaffari",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Moshe Babaioff",
+      "affiliation": "Hebrew University of Jerusalem",
+      "role": "member"
+    },
+    {
+      "name": "Mrinal Kumar",
+      "affiliation": "TIFR",
+      "role": "member"
+    },
+    {
+      "name": "Naveen Garg",
+      "affiliation": "IIT Delhi",
+      "role": "member"
+    },
+    {
+      "name": "Nikhil Bansal",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Nitin Saxena",
+      "affiliation": "IIT Kanpur",
+      "role": "member"
+    },
+    {
+      "name": "Nutan Limaye",
+      "affiliation": "IT University of Copenhagen",
+      "role": "member"
+    },
+    {
+      "name": "Ola Svensson",
+      "affiliation": "EPFL",
+      "role": "member"
+    },
+    {
+      "name": "Omri Ben-Eliezer",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "Or Meir",
+      "affiliation": "University of Sheffield",
+      "role": "member"
+    },
+    {
+      "name": "Pascal Koiran",
+      "affiliation": "ENS Lyon",
+      "role": "member"
+    },
+    {
+      "name": "Qipeng Liu",
+      "affiliation": "UC San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Rafael Oliveira",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Rafael Pass",
+      "affiliation": "Cornell Tech",
+      "role": "member"
+    },
+    {
+      "name": "Rafail Ostrovsky",
+      "affiliation": "UCLA",
+      "role": "member"
+    },
+    {
+      "name": "Raghu Meka",
+      "affiliation": "UCLA",
+      "role": "member"
+    },
+    {
+      "name": "Ran Gelles",
+      "affiliation": "Bar-Ilan University",
+      "role": "member"
+    },
+    {
+      "name": "Rasmus Kyng",
+      "affiliation": "ETH Zurich",
+      "role": "member"
+    },
+    {
+      "name": "Robert Krauthgamer",
+      "affiliation": "Weizmann Institute of Science",
+      "role": "member"
+    },
+    {
+      "name": "Rotem Oshman",
+      "affiliation": "Tel Aviv University / NYU",
+      "role": "member"
+    },
+    {
+      "name": "Russell Impagliazzo",
+      "affiliation": "University of California, San Diego",
+      "role": "member"
+    },
+    {
+      "name": "Ryan O'Donnell",
+      "affiliation": "Carnegie Mellon University",
+      "role": "member"
+    },
+    {
+      "name": "Saket Saurabh",
+      "affiliation": "Institute of Mathematical Sciences",
+      "role": "member"
+    },
+    {
+      "name": "Santosh Vempala",
+      "affiliation": "Georgia Tech",
+      "role": "member"
+    },
+    {
+      "name": "Sayan Bhattacharya",
+      "affiliation": "University of Warwick",
+      "role": "member"
+    },
+    {
+      "name": "Sebastian Brandt",
+      "affiliation": "CISPA Helmholtz Center for Information Security",
+      "role": "member"
+    },
+    {
+      "name": "Sepehr Assadi",
+      "affiliation": "University of Waterloo",
+      "role": "member"
+    },
+    {
+      "name": "Seth Pettie",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Shachar Lovett",
+      "affiliation": "University of California, San Diego, USA",
+      "role": "chair"
+    },
+    {
+      "name": "Shayan Oveis Gharan",
+      "affiliation": "University of Washington",
+      "role": "member"
+    },
+    {
+      "name": "Shiri Chechik",
+      "affiliation": "Tel Aviv University",
+      "role": "member"
+    },
+    {
+      "name": "Shubhangi Saraf",
+      "affiliation": "University of Toronto",
+      "role": "member"
+    },
+    {
+      "name": "Siddhartha Banerjee",
+      "affiliation": "Cornell",
+      "role": "member"
+    },
+    {
+      "name": "Sigal Oren",
+      "affiliation": "Ben-Gurion University",
+      "role": "member"
+    },
+    {
+      "name": "Simina Branzei",
+      "affiliation": "Purdue University",
+      "role": "member"
+    },
+    {
+      "name": "Srikanth Srinivasan",
+      "affiliation": "University of Copenhagen",
+      "role": "member"
+    },
+    {
+      "name": "Stephan Kreutzer",
+      "affiliation": "Technische Universität Berlin",
+      "role": "member"
+    },
+    {
+      "name": "Susanna de Rezende",
+      "affiliation": "Lund University",
+      "role": "member"
+    },
+    {
+      "name": "T.S. Jayram",
+      "affiliation": "Lawrence Livermore National Laboratory",
+      "role": "member"
+    },
+    {
+      "name": "Tal Malkin",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Thatchaphol Saranurak",
+      "affiliation": "University of Michigan",
+      "role": "member"
+    },
+    {
+      "name": "Tim Roughgarden",
+      "affiliation": "Institute for Advanced Study",
+      "role": "member"
+    },
+    {
+      "name": "Toniann Pitassi",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Troy Lee",
+      "affiliation": "University of Technology Sydney",
+      "role": "member"
+    },
+    {
+      "name": "Tselil Schramm",
+      "affiliation": "Stanford University",
+      "role": "member"
+    },
+    {
+      "name": "Xi Chen",
+      "affiliation": "Columbia University",
+      "role": "member"
+    },
+    {
+      "name": "Yael Kalai",
+      "affiliation": "MIT",
+      "role": "member"
+    },
+    {
+      "name": "Yang Cai",
+      "affiliation": "Yale University",
+      "role": "member"
+    },
+    {
+      "name": "Yi-Jun Chang",
+      "affiliation": "National University of Singapore",
+      "role": "member"
+    },
+    {
+      "name": "Yuval Filmus",
+      "affiliation": "Technion",
+      "role": "member"
+    },
+    {
+      "name": "Zvika Brakerski",
+      "affiliation": "Weizmann Institute of Science",
+      "role": "member"
+    }
+  ],
+  "source_discrepancies": [
+    "Both current roster pages enumerate 98 people including chair; policy rationale PDF p1 says the PC consists of 99 members. Record both facts without inventing a missing member.",
+    "Some name and affiliation strings differ between CFP and HotCRP, e.g. Seffi/Joseph Naor and Michael A./Michael Forbes, plus affiliations. Both source-exact lists are preserved; CFP is the primary roster."
+  ],
+  "selection_policy": {
+    "documented": [
+      "Original theory research is sought across non-exclusive topics; the PC commits to considering a broad range of areas.",
+      "CFP requires main contributions, prior-work importance and technical/conceptual ideas to be clear in the initial twelve pages.",
+      "Proofs enabling full verification of main claims must be supplied. Exposition and clarity of technical arguments/proofs receive substantial weight; poor exposition can cause desk rejection.",
+      "The written submission is the primary object of review. A video cannot fill in a missing proof, correct an error or add a new claim.",
+      "Review reports and committee deliberations are confidential."
+    ],
+    "hard_area_caps": "No numerical area cap or quota was located in the full public CFP, homepage, or policy rationale, including for quantum or online algorithms. This is a bounded finding, not evidence about confidential PC deliberations.",
+    "explicit_numeric_limits_are_not_area_caps": [
+      "At most five submissions per author.",
+      "At most three best-paper awards."
+    ],
+    "acceptance_target": "No total acceptance target of 400 was located in these official documents."
+  },
+  "coverage_examples": [
+    {
+      "name": "Daniel Grier",
+      "basis": "UCSD profile identifies quantum complexity theory and quantum advantage research.",
+      "source": "https://jacobsschool.ucsd.edu/people/profile/daniel-grier",
+      "coverage_topic": "quantum",
+      "coverage_topic_label": "Quantum computation and information"
+    },
+    {
+      "name": "John Wright",
+      "basis": "Berkeley profile identifies quantum computing, state learning and quantum complexity, with property testing and approximation overlap.",
+      "source": "https://vcresearch.berkeley.edu/faculty/john-wright",
+      "coverage_topic": "quantum",
+      "coverage_topic_label": "Quantum computation and information"
+    },
+    {
+      "name": "Elias Koutsoupias",
+      "other_topics": [
+        "economics",
+        "distributed",
+        "complexity"
+      ],
+      "basis": "Oxford profile explicitly lists online algorithms, decision-making under uncertainty, games/economics, distributed algorithms and complexity.",
+      "source": "https://www.cs.ox.ac.uk/people/elias.koutsoupias/",
+      "coverage_topic": "online",
+      "coverage_topic_label": "Online algorithms and online learning"
+    },
+    {
+      "name": "Debmalya Panigrahi",
+      "other_topics": [
+        "graph_discrete"
+      ],
+      "basis": "Author CV research statement identifies competitive analysis of online algorithms, learning-augmented algorithms and graph algorithms.",
+      "source": "https://users.cs.duke.edu/~debmalya/CV/panigrahi-cv-nov24.pdf",
+      "access_note": "Official Duke-hosted CV text was returned by search; direct web open returned 403. Duke research-area page independently lists him under Approximation and Online Algorithms.",
+      "corroborating_source": "https://cs.duke.edu/research/approximation-and-online-algorithms",
+      "coverage_topic": "online",
+      "coverage_topic_label": "Online algorithms and online learning"
+    },
+    {
+      "name": "Elaine Shi",
+      "coverage_topic": "crypto_privacy",
+      "coverage_topic_label": "Cryptography and privacy",
+      "basis": "Author homepage lists cryptography and security, alongside mechanism design, algorithms and blockchain foundations.",
+      "source": "https://elaineshi.com/"
+    },
+    {
+      "name": "Russell Impagliazzo",
+      "coverage_topic": "complexity",
+      "coverage_topic_label": "Complexity and pseudorandomness",
+      "basis": "Author UCSD homepage lists proof/structural complexity and computational randomness, with cryptography overlap.",
+      "source": "https://cseweb.ucsd.edu/~russell/"
+    },
+    {
+      "name": "Klim Efremenko",
+      "coverage_topic": "coding_info",
+      "coverage_topic_label": "Coding and information theory",
+      "basis": "Author BGU homepage identifies error-correcting codes and interactive communication as main research interests, alongside complexity.",
+      "source": "https://www.cs.bgu.ac.il/~klim/"
+    },
+    {
+      "name": "Ilias Diakonikolas",
+      "coverage_topic": "learning",
+      "coverage_topic_label": "Learning and statistics",
+      "basis": "Author homepage covers robust statistics and learning algorithms; Wisconsin affiliation and research publications are given there.",
+      "source": "https://www.iliasdiakonikolas.org/"
+    },
+    {
+      "name": "Daniel Lokshtanov",
+      "coverage_topic": "graph_discrete",
+      "coverage_topic_label": "Graph and discrete algorithms",
+      "basis": "UCSB faculty profile identifies algorithmic graph theory and parameterized complexity as the principal research areas.",
+      "source": "https://www.cs.ucsb.edu/people/faculty/daniel-lokshtanov"
+    },
+    {
+      "name": "Ola Svensson",
+      "coverage_topic": "approx_opt",
+      "coverage_topic_label": "Approximation and optimization",
+      "basis": "Author EPFL research page covers combinatorial optimization and hardness of approximation, with online/streaming and learning-augmented overlap.",
+      "source": "https://theory.epfl.ch/osven/"
+    },
+    {
+      "name": "David Woodruff",
+      "coverage_topic": "data_sublinear",
+      "coverage_topic_label": "Data structures, streaming and sublinear algorithms",
+      "basis": "CMU faculty profile explicitly lists data stream algorithms, sketching and sparse recovery, alongside other topics.",
+      "source": "https://csd.cs.cmu.edu/people/faculty/david-woodruff"
+    },
+    {
+      "name": "Shayan Oveis Gharan",
+      "coverage_topic": "counting_sampling",
+      "coverage_topic_label": "Counting and sampling",
+      "basis": "Author UW homepage lists approximate counting of matroid bases, sampling spin models and colorings, and counting/mixing-time courses.",
+      "source": "https://homes.cs.washington.edu/~shayan/"
+    },
+    {
+      "name": "Asaf Shapira",
+      "coverage_topic": "combinatorics_geometry",
+      "coverage_topic_label": "Combinatorics and geometry",
+      "basis": "Author TAU publications include extremal graph/hypergraph theorems; homepage includes extremal graph theory and combinatorics.",
+      "source": "https://www.math.tau.ac.il/~asafico/papers.html"
+    },
+    {
+      "name": "Nitin Saxena",
+      "coverage_topic": "algebra_number",
+      "coverage_topic_label": "Algebraic and number-theoretic algorithms",
+      "basis": "Author IIT Kanpur homepage lists algebra, geometry and number theory with complexity/cryptography overlap; IIT Kanpur research brochure identifies algorithmic algebra/number theory.",
+      "source": "https://www.cse.iitk.ac.in/users/nitin/"
+    },
+    {
+      "name": "Fabian Kuhn",
+      "coverage_topic": "distributed",
+      "coverage_topic_label": "Distributed and parallel computing",
+      "basis": "Author Freiburg homepage explicitly identifies distributed algorithms and theoretical questions about networks and distributed systems.",
+      "source": "https://ac.informatik.uni-freiburg.de/kuhn.html"
+    },
+    {
+      "name": "Michal Feldman",
+      "coverage_topic": "economics",
+      "coverage_topic_label": "Economics and game theory",
+      "basis": "Author TAU homepage identifies research at the intersection of computer science, game theory and economics.",
+      "source": "https://www.cs.tau.ac.il/~mfeldman/"
+    }
+  ],
+  "coverage_limitations": [
+    "Coverage examples are deliberately nonexhaustive; they are not counts of exclusive area specialists.",
+    "No inferred topic allocation from PC head counts, individual preferences, or institutional identity.",
+    "PC can use external reviewers; a roster is not a closed inventory of review expertise.",
+    "The fourteen-topic taxonomy is our coarse classification, not an official STOC taxonomy.",
+    "A representative example under a category does not claim complete coverage of all its subtopics, and one member may provide expertise across several categories."
+  ],
+  "shortlist_recommendation": "The user has explicitly approved ratings-only eligibility: preserve proof-audit statuses and caveats as information, not as a prerequisite. Apply requested topic balance transparently as a shortlist heuristic alongside paper ratings, preferably a soft tie-break among comparable papers. Do not label quantum/online caps as official STOC rules or use PC expertise counts as numerical quotas.",
+  "coverage_examples_kind": "Source-backed illustrative coverage only; these are not official reviewer assignments, individual preference predictions, exclusive specialties, or numerical acceptance quotas.",
+  "coverage_examples_span_all_taxonomy_topics": true
+}

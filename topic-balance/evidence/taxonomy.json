@@ -1,0 +1,16 @@
+{
+  "quantum": "Quantum computation and information",
+  "crypto_privacy": "Cryptography and privacy",
+  "complexity": "Complexity and pseudorandomness",
+  "coding_info": "Coding and information theory",
+  "learning": "Learning and statistics",
+  "online": "Online algorithms and online learning",
+  "graph_discrete": "Graph and discrete algorithms",
+  "approx_opt": "Approximation and optimization",
+  "data_sublinear": "Data structures, streaming and sublinear algorithms",
+  "counting_sampling": "Counting and sampling",
+  "combinatorics_geometry": "Combinatorics and geometry",
+  "algebra_number": "Algebraic and number-theoretic algorithms",
+  "distributed": "Distributed and parallel computing",
+  "economics": "Economics and game theory"
+}

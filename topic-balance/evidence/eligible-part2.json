@@ -1,0 +1,1005 @@
+[
+  {
+    "number": "837",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "839",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "840",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "841",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "847",
+    "primary_topic": "complexity",
+    "classification_note": "Joint CVP/NCP preprocessing hardness; complexity primary, with lattice/coding secondary."
+  },
+  {
+    "number": "849",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "851",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "856",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "861",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "863",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "865",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "868",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "869",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "877",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "879",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "888",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "892",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "894",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "895",
+    "primary_topic": "data_sublinear",
+    "classification_note": "Property-testing space bounds; data/sublinear primary, space-complexity method secondary.",
+    "initial_primary_topic": "complexity"
+  },
+  {
+    "number": "897",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "901",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "905",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "906",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "909",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "912",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "913",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "916",
+    "primary_topic": "economics",
+    "classification_note": "Welfare guarantee in a fair-allocation model; economics primary despite rounding method."
+  },
+  {
+    "number": "922",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "924",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "925",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "928",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "936",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "938",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "945",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "947",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "949",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "950",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "951",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "952",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "957",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "959",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "960",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "962",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "963",
+    "primary_topic": "graph_discrete",
+    "classification_note": "Approximate edit-distance string algorithm; aligned with historical string-algorithm taxonomy.",
+    "initial_primary_topic": "approx_opt"
+  },
+  {
+    "number": "964",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "966",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "968",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "975",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "977",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": "Principal theorem is anticoncentration of random permanents; quantum sampling is an application."
+  },
+  {
+    "number": "980",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "983",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "987",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "988",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "990",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "992",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "995",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "997",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "998",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1000",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1001",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1002",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1005",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1008",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1011",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1012",
+    "primary_topic": "complexity",
+    "classification_note": "Principal conclusion is complexity hardness; cryptography supplies assumptions."
+  },
+  {
+    "number": "1014",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1015",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1016",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1022",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1024",
+    "primary_topic": "distributed",
+    "classification_note": ""
+  },
+  {
+    "number": "1027",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1029",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1033",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1034",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1037",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1038",
+    "primary_topic": "distributed",
+    "classification_note": ""
+  },
+  {
+    "number": "1039",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1043",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1044",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1045",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1046",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1050",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1053",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1054",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1055",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1058",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1060",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1062",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1067",
+    "primary_topic": "quantum",
+    "classification_note": "Quantum subset-sum algorithm is the headline theorem; classical LWE decoder is a major component."
+  },
+  {
+    "number": "1069",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1071",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1076",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1077",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1079",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1083",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1084",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1085",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1086",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1087",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1088",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1089",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1091",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1093",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1100",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1101",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1102",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1103",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1105",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": "Bounds on the Grothendieck constant; aligned with #820. Approximation applications are secondary.",
+    "initial_primary_topic": "approx_opt"
+  },
+  {
+    "number": "1108",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1110",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1112",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1114",
+    "primary_topic": "distributed",
+    "classification_note": ""
+  },
+  {
+    "number": "1116",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1118",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1120",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1122",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1125",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1126",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1130",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1132",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1135",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1136",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1137",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1138",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1140",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1146",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1148",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1150",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1156",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1159",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1160",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1171",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1172",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1174",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1176",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1178",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1180",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1187",
+    "primary_topic": "online",
+    "classification_note": "Nonprivate online learning theorem is primary, with a differential-privacy extension."
+  },
+  {
+    "number": "1197",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1202",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1205",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1208",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1209",
+    "primary_topic": "quantum",
+    "classification_note": "Classical protocol but quantum-security recording theorem is central; assigned quantum, borderline cryptography."
+  },
+  {
+    "number": "1210",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1212",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1217",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1220",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1223",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1224",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1226",
+    "primary_topic": "combinatorics_geometry",
+    "classification_note": ""
+  },
+  {
+    "number": "1233",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1235",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1236",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1241",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1243",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1244",
+    "primary_topic": "counting_sampling",
+    "classification_note": "Classifying local lemma regimes supports counting; borderline combinatorics."
+  },
+  {
+    "number": "1245",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1246",
+    "primary_topic": "learning",
+    "classification_note": ""
+  },
+  {
+    "number": "1247",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1249",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1250",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1252",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1254",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1260",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1267",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1268",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1275",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1276",
+    "primary_topic": "crypto_privacy",
+    "classification_note": ""
+  },
+  {
+    "number": "1280",
+    "primary_topic": "complexity",
+    "classification_note": "Classical zero-knowledge PCP construction; PCP/complexity primary, cryptography secondary."
+  },
+  {
+    "number": "1283",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1285",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1286",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1294",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1295",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1301",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1307",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1311",
+    "primary_topic": "distributed",
+    "classification_note": ""
+  },
+  {
+    "number": "1312",
+    "primary_topic": "complexity",
+    "classification_note": "Composition results span classical and quantum query models; approximate-degree/randomized bounds primary."
+  },
+  {
+    "number": "1313",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1315",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1316",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1318",
+    "primary_topic": "complexity",
+    "classification_note": ""
+  },
+  {
+    "number": "1324",
+    "primary_topic": "online",
+    "classification_note": ""
+  },
+  {
+    "number": "1325",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1327",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1329",
+    "primary_topic": "graph_discrete",
+    "classification_note": ""
+  },
+  {
+    "number": "1330",
+    "primary_topic": "data_sublinear",
+    "classification_note": ""
+  },
+  {
+    "number": "1331",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1332",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1336",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1337",
+    "primary_topic": "counting_sampling",
+    "classification_note": ""
+  },
+  {
+    "number": "1340",
+    "primary_topic": "economics",
+    "classification_note": ""
+  },
+  {
+    "number": "1344",
+    "primary_topic": "coding_info",
+    "classification_note": ""
+  },
+  {
+    "number": "1345",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1348",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1350",
+    "primary_topic": "algebra_number",
+    "classification_note": ""
+  },
+  {
+    "number": "1351",
+    "primary_topic": "quantum",
+    "classification_note": ""
+  },
+  {
+    "number": "1358",
+    "primary_topic": "approx_opt",
+    "classification_note": ""
+  },
+  {
+    "number": "1359",
+    "primary_topic": "learning",
+    "classification_note": "Statistical distinguishability is the main question; random graph geometry is secondary."
+  },
+  {
+    "number": "1360",
+    "primary_topic": "online",
+    "classification_note": ""
+  }
+]

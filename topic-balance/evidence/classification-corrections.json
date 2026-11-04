@@ -1,0 +1,22 @@
+{
+  "443": [
+    "economics",
+    "Nash social welfare allocation; aligned with #916 and historical welfare papers."
+  ],
+  "1105": [
+    "combinatorics_geometry",
+    "Bounds on the Grothendieck constant; aligned with #820. Approximation applications are secondary."
+  ],
+  "963": [
+    "graph_discrete",
+    "Approximate edit-distance string algorithm; aligned with historical string-algorithm taxonomy."
+  ],
+  "895": [
+    "data_sublinear",
+    "Property-testing space bounds; data/sublinear primary, space-complexity method secondary."
+  ],
+  "234": [
+    "quantum",
+    "Central quantum polynomial-time coherent-oracle OPI algorithm and oracle separation, alongside a classical Shamir secret-sharing theorem."
+  ]
+}
