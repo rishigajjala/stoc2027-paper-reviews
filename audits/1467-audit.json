@@ -1,0 +1,14 @@
+{
+  "random_integer_metric_instances": 240,
+  "checked_prefixes": 9600,
+  "n_range": [
+    3,
+    7
+  ],
+  "k_range": [
+    2,
+    4
+  ],
+  "all_passed": true,
+  "limitation": "Checks theorem inequalities using exact DP; does not establish general correctness or algebraic potential."
+}

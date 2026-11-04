@@ -1,0 +1,6 @@
+{
+  "random_posets": 490,
+  "antichain_DP_checks": 1400,
+  "all_passed": true,
+  "purpose": "Finite validation of deadline grouping and pattern partition, not a substitute for the general proof."
+}

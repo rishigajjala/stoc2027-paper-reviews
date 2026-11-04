@@ -1,0 +1,27 @@
+{
+  "allocations": 6561,
+  "efx_counts_u_v_weighted_coverage": [
+    24,
+    0,
+    0
+  ],
+  "strictification": "100*v(S)+|S|",
+  "base": 256,
+  "coverage": [
+    {
+      "ranks": 31,
+      "features": 255,
+      "min_positive_weight": "255"
+    },
+    {
+      "ranks": 31,
+      "features": 255,
+      "min_positive_weight": "255"
+    },
+    {
+      "ranks": 31,
+      "features": 255,
+      "min_positive_weight": "255"
+    }
+  ]
+}

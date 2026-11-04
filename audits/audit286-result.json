@@ -1,0 +1,12 @@
+{
+  "vertices": 182,
+  "candidate_edges": 910,
+  "removed_edges": 175,
+  "physical_edges": 735,
+  "sessions": 157,
+  "all_session_basis_transfers_verified": true,
+  "local_interpolants": 182,
+  "dimension_leading_terms": 166,
+  "flow_rate_bound": "147/157",
+  "coding_rate_lower_bound": 1
+}

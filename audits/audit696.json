@@ -1,0 +1,6 @@
+{
+  "cases": 1050,
+  "max_projection_identity_residual": 1.1368683772161603e-13,
+  "minimum_routing_quadratic_slack": -9.860761315262648e-32,
+  "status": "passed; numerical sanity checks, not proof"
+}

@@ -1,0 +1,20 @@
+{
+  "parameter_count": 280,
+  "max_cutoff": 149698566289230410934156986529669662,
+  "mass": 1.0013324198776512,
+  "min_exponent_gap": 3.2867459853031397e-37,
+  "exact_rational_parameters_verified": true,
+  "small_matrix_cases": 35,
+  "sizes": "1..7",
+  "entries": "-2..2",
+  "cutoffs": [
+    1,
+    2,
+    4
+  ],
+  "budgets": [
+    "3/5",
+    "1/5",
+    "1/20"
+  ]
+}

@@ -1,0 +1,153 @@
+Checking finite_family_verifier.py
+{"E": "1", "cells": 10, "nodes": 60421, "seconds": 10.639028833975317}
+{"E": "1", "cells": 20, "nodes": 70593, "seconds": 12.457725708984071}
+{"E": "1", "cells": 30, "nodes": 74485, "seconds": 13.184576917003142}
+{"E": "1", "cells": 40, "nodes": 77745, "seconds": 13.807793208980002}
+{"E": "1", "cells": 50, "nodes": 81967, "seconds": 14.613968124991516}
+{"E": "1", "cells": 60, "nodes": 87647, "seconds": 15.725436999986414}
+{"E": "1", "cells": 70, "nodes": 94964, "seconds": 17.171051374985836}
+{"E": "1", "cells": 80, "nodes": 104598, "seconds": 19.086943583999528}
+{"E": "1", "cells": 90, "nodes": 136677, "seconds": 25.64043420899543}
+{"E": "1", "cells": 100, "nodes": 161017, "seconds": 30.662475833989447}
+{"E": "1", "cells": 110, "nodes": 165476, "seconds": 31.49785287497798}
+{"E": "1", "cells": 120, "nodes": 168209, "seconds": 32.05856341699837}
+{"E": "1033/1000", "cells": 130, "nodes": 176720, "seconds": 33.71578295898507}
+{"E": "1033/1000", "cells": 140, "nodes": 189556, "seconds": 35.75721841698396}
+{"E": "1033/1000", "cells": 150, "nodes": 197296, "seconds": 37.134241249994375}
+{"E": "1033/1000", "cells": 160, "nodes": 200988, "seconds": 37.81543979200069}
+{"E": "1033/1000", "cells": 170, "nodes": 204356, "seconds": 38.44387179199839}
+{"E": "1033/1000", "cells": 180, "nodes": 208589, "seconds": 39.23812920899945}
+{"E": "1033/1000", "cells": 190, "nodes": 214348, "seconds": 40.345677042001626}
+{"E": "1033/1000", "cells": 200, "nodes": 221866, "seconds": 41.802174791984726}
+{"E": "1033/1000", "cells": 210, "nodes": 232475, "seconds": 43.86061333399266}
+{"E": "1033/1000", "cells": 220, "nodes": 267881, "seconds": 50.988390291982796}
+{"E": "1033/1000", "cells": 230, "nodes": 274321, "seconds": 52.204816249985015}
+{"E": "1033/1000", "cells": 240, "nodes": 278494, "seconds": 52.969674291991396}
+{"E": "1033/1000", "cells": 250, "nodes": 281081, "seconds": 53.495149583992315}
+{"E": "267/250", "cells": 260, "nodes": 290733, "seconds": 55.22129670900176}
+{"E": "267/250", "cells": 270, "nodes": 301368, "seconds": 56.88197408398264}
+{"E": "267/250", "cells": 280, "nodes": 306809, "seconds": 57.88058374999673}
+{"E": "267/250", "cells": 290, "nodes": 310593, "seconds": 58.5768616249843}
+{"E": "267/250", "cells": 300, "nodes": 313942, "seconds": 59.22082479199162}
+{"E": "267/250", "cells": 310, "nodes": 318201, "seconds": 60.036485624994384}
+{"E": "267/250", "cells": 320, "nodes": 324032, "seconds": 61.15339199997834}
+{"E": "267/250", "cells": 330, "nodes": 331340, "seconds": 62.59782508399803}
+{"E": "267/250", "cells": 340, "nodes": 341683, "seconds": 64.65985595897655}
+{"E": "267/250", "cells": 350, "nodes": 368067, "seconds": 70.14893879200099}
+{"E": "267/250", "cells": 360, "nodes": 372707, "seconds": 71.0303362919949}
+{"E": "267/250", "cells": 370, "nodes": 376604, "seconds": 71.7526244999899}
+{"E": "267/250", "cells": 380, "nodes": 379061, "seconds": 72.24878537497716}
+{"E": "553/500", "cells": 390, "nodes": 386627, "seconds": 73.63834683399182}
+{"E": "553/500", "cells": 400, "nodes": 393321, "seconds": 74.65057270898251}
+{"E": "553/500", "cells": 410, "nodes": 396864, "seconds": 75.30539158399915}
+{"E": "553/500", "cells": 420, "nodes": 400353, "seconds": 75.9459797089803}
+{"E": "553/500", "cells": 430, "nodes": 403649, "seconds": 76.5682188749779}
+{"E": "553/500", "cells": 440, "nodes": 407917, "seconds": 77.38745916698826}
+{"E": "553/500", "cells": 450, "nodes": 413405, "seconds": 78.49432349999552}
+{"E": "553/500", "cells": 460, "nodes": 420590, "seconds": 79.9555114590039}
+{"E": "553/500", "cells": 470, "nodes": 430569, "seconds": 82.08693404198857}
+{"E": "553/500", "cells": 480, "nodes": 447542, "seconds": 85.533480958984}
+{"E": "553/500", "cells": 490, "nodes": 451448, "seconds": 86.27393287498853}
+{"E": "553/500", "cells": 500, "nodes": 455100, "seconds": 86.97286145898397}
+{"E": "553/500", "cells": 510, "nodes": 457357, "seconds": 87.44643387498218}
+{"E": "567/500", "cells": 520, "nodes": 464584, "seconds": 88.81277970899828}
+{"E": "567/500", "cells": 530, "nodes": 468825, "seconds": 89.4365647919767}
+{"E": "567/500", "cells": 540, "nodes": 471508, "seconds": 89.93215924999095}
+{"E": "567/500", "cells": 550, "nodes": 474848, "seconds": 90.5583013339783}
+{"E": "567/500", "cells": 560, "nodes": 478139, "seconds": 91.1808920839976}
+{"E": "567/500", "cells": 570, "nodes": 482238, "seconds": 91.96929491698393}
+{"E": "567/500", "cells": 580, "nodes": 487606, "seconds": 93.02642987499712}
+{"E": "567/500", "cells": 590, "nodes": 494674, "seconds": 94.4329259590013}
+{"E": "567/500", "cells": 600, "nodes": 504188, "seconds": 96.32353591697756}
+{"E": "567/500", "cells": 610, "nodes": 515170, "seconds": 98.58008733397583}
+{"E": "567/500", "cells": 620, "nodes": 518820, "seconds": 99.39176537498133}
+{"E": "567/500", "cells": 630, "nodes": 522300, "seconds": 100.04070970899193}
+{"E": "567/500", "cells": 640, "nodes": 524343, "seconds": 100.4721969999955}
+{"E": "579/500", "cells": 650, "nodes": 531318, "seconds": 101.7892588749819}
+{"E": "579/500", "cells": 660, "nodes": 535456, "seconds": 102.3975298749865}
+{"E": "579/500", "cells": 670, "nodes": 537638, "seconds": 102.79664987500291}
+{"E": "579/500", "cells": 680, "nodes": 541027, "seconds": 103.44276183398324}
+{"E": "579/500", "cells": 690, "nodes": 544344, "seconds": 104.11175174999516}
+{"E": "579/500", "cells": 700, "nodes": 548279, "seconds": 104.87453433399787}
+{"E": "579/500", "cells": 710, "nodes": 553581, "seconds": 105.91478474999894}
+{"E": "579/500", "cells": 720, "nodes": 560518, "seconds": 107.30479391699191}
+{"E": "579/500", "cells": 730, "nodes": 569402, "seconds": 109.11243366700364}
+{"E": "579/500", "cells": 740, "nodes": 575842, "seconds": 110.43897016698611}
+{"E": "579/500", "cells": 750, "nodes": 579342, "seconds": 111.08773991698399}
+{"E": "579/500", "cells": 760, "nodes": 582694, "seconds": 111.70993962499779}
+{"E": "579/500", "cells": 770, "nodes": 584637, "seconds": 112.10760454199044}
+{"E": "1189/1000", "cells": 780, "nodes": 592244, "seconds": 113.55268170899944}
+{"E": "1189/1000", "cells": 790, "nodes": 596322, "seconds": 114.17362274997868}
+{"E": "1189/1000", "cells": 800, "nodes": 597953, "seconds": 114.47995404197718}
+{"E": "1189/1000", "cells": 810, "nodes": 601489, "seconds": 115.15750462497817}
+{"E": "1189/1000", "cells": 820, "nodes": 604688, "seconds": 115.78022958399379}
+{"E": "1189/1000", "cells": 830, "nodes": 608532, "seconds": 116.54822724999394}
+{"E": "1189/1000", "cells": 840, "nodes": 613701, "seconds": 117.59781033400213}
+{"E": "1189/1000", "cells": 850, "nodes": 620301, "seconds": 118.91298229197855}
+{"E": "1189/1000", "cells": 860, "nodes": 627486, "seconds": 120.3526892089867}
+{"E": "1189/1000", "cells": 870, "nodes": 630049, "seconds": 120.8892000420019}
+{"E": "1189/1000", "cells": 880, "nodes": 633405, "seconds": 121.52465041697724}
+{"E": "1189/1000", "cells": 890, "nodes": 636635, "seconds": 122.1378744590038}
+{"E": "1189/1000", "cells": 900, "nodes": 638627, "seconds": 122.58430679197772}
+{"E": "309/250", "cells": 910, "nodes": 647007, "seconds": 124.12311099999351}
+{"E": "309/250", "cells": 920, "nodes": 653853, "seconds": 125.11096720898058}
+{"E": "309/250", "cells": 930, "nodes": 654823, "seconds": 125.27740145899588}
+{"E": "309/250", "cells": 940, "nodes": 658215, "seconds": 125.90690858400194}
+{"E": "309/250", "cells": 950, "nodes": 661221, "seconds": 126.4813171249989}
+{"E": "309/250", "cells": 960, "nodes": 664885, "seconds": 127.19147387499106}
+{"E": "309/250", "cells": 970, "nodes": 669736, "seconds": 128.136676833994}
+{"E": "309/250", "cells": 980, "nodes": 675491, "seconds": 129.25380787497852}
+{"E": "309/250", "cells": 990, "nodes": 678464, "seconds": 129.83467999999993}
+{"E": "309/250", "cells": 1000, "nodes": 680506, "seconds": 130.24077737500193}
+{"E": "309/250", "cells": 1010, "nodes": 683690, "seconds": 130.8143104169867}
+{"E": "309/250", "cells": 1020, "nodes": 686742, "seconds": 131.36372424999718}
+{"E": "309/250", "cells": 1030, "nodes": 688898, "seconds": 131.79996266699163}
+{"E": "659/500", "cells": 1040, "nodes": 695444, "seconds": 133.0384254590026}
+{"E": "659/500", "cells": 1050, "nodes": 697901, "seconds": 133.4074393749761}
+{"E": "659/500", "cells": 1060, "nodes": 698607, "seconds": 133.5250924169959}
+{"E": "659/500", "cells": 1070, "nodes": 701447, "seconds": 134.0598839589802}
+{"E": "659/500", "cells": 1080, "nodes": 704226, "seconds": 134.5842902919976}
+{"E": "659/500", "cells": 1090, "nodes": 707488, "seconds": 135.20108395899297}
+{"E": "659/500", "cells": 1100, "nodes": 711301, "seconds": 135.9300487919827}
+{"E": "659/500", "cells": 1110, "nodes": 713588, "seconds": 136.3710349999892}
+{"E": "659/500", "cells": 1120, "nodes": 714819, "seconds": 136.6099118749844}
+{"E": "659/500", "cells": 1130, "nodes": 716346, "seconds": 136.91479916698881}
+{"E": "659/500", "cells": 1140, "nodes": 719137, "seconds": 137.424438291986}
+{"E": "659/500", "cells": 1150, "nodes": 721668, "seconds": 137.89225929198437}
+{"E": "659/500", "cells": 1160, "nodes": 724251, "seconds": 138.40261474999716}
+{"status": "partial_direct_bounds_verified", "all_analytical_reductions_removed_from_checker": true, "group": "all", "coefficients": ["1", "1033/1000", "267/250", "553/500", "567/500", "579/500", "1189/1000", "309/250", "659/500"], "nodes": 729671, "seconds": 139.42980899999384}
+Checking finish_finite_certificate.py
+{
+  "status": "verified",
+  "scope": "All local inequalities on full proper-mass and endpoint domains; nine finite choices; rational cut b; no analytic root/E/endpoint reduction assumed.",
+  "direct_poly_boxes": 729671,
+  "direct_mass_cells": 1168,
+  "common_polynomial_mass_cells": 152,
+  "witness_sha256": "c7827c269f411d211d5ba34aa00d744eeae98371d164c5070f86464e0da7952c",
+  "checker_sha256": "34ed9b250568e75fc7f303585a0d092cef5dc13ce7e10008a44a548a39a48b9a"
+}
+Checking audit_finite_witness.py
+{
+  "status": "verified",
+  "independent_exact_numerator_evaluations": 5472,
+  "mass_cells": 152,
+  "root_intervals": 9,
+  "law_and_normalization_exact": true,
+  "degree_bound": 3,
+  "witness_sha256": "c7827c269f411d211d5ba34aa00d744eeae98371d164c5070f86464e0da7952c"
+}
+Checking verify_rank_cut.py
+{"E": "1", "nodes": 88568, "seconds": 20.100742832990363}
+{"E": "1033/1000", "nodes": 159832, "seconds": 36.064357040973846}
+{"E": "267/250", "nodes": 219610, "seconds": 49.59404991599149}
+{"E": "553/500", "nodes": 268956, "seconds": 60.817902165988926}
+{"E": "567/500", "nodes": 311480, "seconds": 70.48239579098299}
+{"E": "579/500", "nodes": 348593, "seconds": 78.99282299997867}
+{"E": "1189/1000", "nodes": 379677, "seconds": 86.14029045798816}
+{"E": "309/250", "nodes": 404401, "seconds": 91.80396966598346}
+{"E": "659/500", "nodes": 421652, "seconds": 95.91986841597827}
+Checking finish_rank_cut_certificate.py
+{"status": "verified", "additional_polynomial_boxes": 421652, "positive_mixed_difference_terms": 532, "rank_measures": 9, "witness_sha256": "07c708f3ee6a33a970796e8a22248e120430bd1de97f617b0f3829625c9093c9"}
+Checking verify_robustness_bound.py
+{"status": "verified", "bound": 16, "domain": "0 <= p <= 1", "witness_sha256": "07c708f3ee6a33a970796e8a22248e120430bd1de97f617b0f3829625c9093c9", "checker_sha256": "42a52dc7a2046d845b5536ef81dd04ade78ad96746e5ae576e5dfbff90f9d2df", "polynomial_intervals": 152, "maximum_degree": 3, "subdivision_needed": false, "endpoint_values_checked": true}
+Complete upper-bound certificate verified: distortion <= 213609/100000 = 2.13609.

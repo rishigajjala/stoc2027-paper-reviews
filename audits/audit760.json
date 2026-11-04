@@ -1,0 +1,10 @@
+{
+  "middle_phase_budget_vectors_checked": 81,
+  "violations": 0,
+  "maximum_gain": 0.9653390717053186,
+  "stated_bound": 0.9653390717053183,
+  "gap_per_H_at_d90": 0.00023321546894630382,
+  "claimed_lower_gap_per_H": 0.0002314814814814815,
+  "d90_constant_valid": true,
+  "qualification": "Last removal preserves potential only after a WLOG optimal final allocation, or use the resulting nonpositive drop as an inequality."
+}

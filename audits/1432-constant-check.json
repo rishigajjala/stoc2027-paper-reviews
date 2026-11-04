@@ -1,0 +1,8 @@
+{
+  "sqrt2_lower_squared_less_2": true,
+  "cos_taylor_upper_below_target": true,
+  "lower_bound_above_4_5624": true,
+  "rational_bound": "804691/176373",
+  "decimal_bound": 4.562438695265148,
+  "note": "Alternating Taylor upper through x^8; sqrt2 rational lower and pi>3.14159 imply 1+pi/(3 acos((1+2sqrt2)/4)) > bound."
+}
