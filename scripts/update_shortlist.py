@@ -1,4 +1,4 @@
-"""Apply the approved rating threshold and proof-audit requirement to data.json."""
+"""Apply the approved rating-only shortlist rule to data.json."""
 import datetime
 import json
 import pathlib
@@ -10,19 +10,10 @@ def rating_qualifies(r):
     return (r['significance'] == 5 and all(r[k] >= 4 for k in OTHERS)
             and any(r[k] == 5 for k in OTHERS))
 
-def proof_eligible(r):
-    a = r['proof_audit']
-    return (r['recommendation'] != 'desk-reject'
-            and r['proof_status'] in ('main-proof-checked', 'partial-large-proof')
-            and bool(a.get('checked')) and bool(a.get('pages'))
-            and not a.get('issues')
-            and (r['proof_status'] != 'partial-large-proof' or bool(a.get('remaining'))))
-
 def order(p):
     r = p['review']
     score = 9*r['significance'] + 5*r['novelty'] + 3*r['depth'] + 3*r['exposition']
-    return (-score, r['proof_status'] != 'main-proof-checked',
-            {'high': 0, 'medium-high': 0.5, 'medium': 1, 'low': 2}.get(r['confidence'], 2), int(p['number']))
+    return (-score, int(p['number']))
 
 def main():
     path = ROOT/'data.json'
@@ -31,7 +22,7 @@ def main():
     before = {p['number'] for p in papers if p['selected']}
     for p in papers:
         p['qualifies_ratings'] = rating_qualifies(p['review'])
-        p['selected'] = p['qualifies_ratings'] and proof_eligible(p['review'])
+        p['selected'] = p['qualifies_ratings']
         p['rank'] = None
     selected = sorted((p for p in papers if p['selected']), key=order)
     for rank, p in enumerate(selected, 1):
@@ -47,8 +38,8 @@ def main():
         rating_qualified=len(qualified),
         rating_qualified_pending_audit=sum(p['review']['proof_status'] == 'not-audited' for p in qualified),
         rating_qualified_unresolved=sum(p['review']['proof_status'] in ('unresolved', 'incorrect') for p in qualified),
-        selection_rule={'significance': 5, 'other_fields': list(OTHERS), 'other_fields_minimum': 4, 'at_least_one_other': 5, 'proof_audit_required': True, 'count_cap': None},
-        selection_policy='Significance 5; novelty, depth and exposition each at least 4; at least one of those three equals 5. Also requires a documented main-proof check or explicit large-proof exception, with no unresolved issue. No fixed count cap. Display order: weighted merit score, main-proof check, review confidence, then submission number.',
+        selection_rule={'significance': 5, 'other_fields': list(OTHERS), 'other_fields_minimum': 4, 'at_least_one_other': 5, 'proof_audit_required': False, 'count_cap': None},
+        selection_policy='Ratings only: significance 5; novelty, depth and exposition each at least 4; at least one of those three equals 5. No proof-audit prerequisite and no fixed count cap. Proof notes are informational. Display order: weighted merit score, then submission number.',
         complete=meta['reviewed'] == len(papers),
     )
     after = {p['number'] for p in selected}
